@@ -2529,6 +2529,7 @@ design rules under a new name.</description>
 <contactref element="U$1" pad="31"/>
 <contactref element="U$1" pad="20"/>
 <contactref element="C29" pad="2"/>
+<via x="33.678" y="45.201" extent="1-16" drill="0.6" shape="octagon"/>
 </signal>
 <signal name="+5V">
 <contactref element="X2" pad="1"/>
@@ -2592,7 +2593,7 @@ design rules under a new name.</description>
 <wire x1="33.201" y1="33.876" x2="33.251" y2="33.907" width="0.254" layer="1"/>
 <via x="36.85" y="31.35" extent="1-16" drill="0.6" shape="octagon"/>
 <via x="47.65" y="57.175" extent="1-16" drill="0.6" shape="octagon"/>
-<wire x1="47.65" y1="57.175" x2="53.275" y2="57.2" width="0.254" layer="16"/>
+<wire x1="47.65" y1="57.175" x2="48.2" y2="57.175" width="0.254" layer="16"/>
 <wire x1="48.75" y1="33" x2="46.5000375" y2="33.009621875" width="0.254" layer="16"/>
 <wire x1="46.5000375" y1="33.009621875" x2="36.85" y2="32.95" width="0.254" layer="16"/>
 <wire x1="36.85" y1="32.95" x2="36.85" y2="31.35" width="0.254" layer="16"/>
@@ -2699,7 +2700,7 @@ design rules under a new name.</description>
 <wire x1="47.65" y1="54.575" x2="47.675" y2="52.9" width="0.254" layer="1"/>
 <wire x1="49.2" y1="55.45" x2="48.375" y2="55.325" width="0.254" layer="1"/>
 <wire x1="48.375" y1="55.325" x2="47.65" y2="55" width="0.254" layer="1"/>
-<wire x1="53.275" y1="57.2" x2="53.131453125" y2="57.2" width="0.254" layer="16"/>
+<wire x1="48.2" y1="57.175" x2="53.131453125" y2="57.2" width="0.254" layer="16"/>
 <wire x1="53.131453125" y1="57.2" x2="53.131453125" y2="35.101546875" width="0.254" layer="16"/>
 </signal>
 <signal name="N$1">
