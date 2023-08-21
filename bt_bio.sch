@@ -17354,7 +17354,7 @@ Source: http://www2.produktinfo.conrad.com/datenblaetter/700000-724999/705152-da
 <part name="P+2" library="supply1" deviceset="V+" device=""/>
 <part name="P+3" library="supply1" deviceset="V+" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="CHIPLED_0805" value="BLUE"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="2K2"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="2.2K"/>
 <part name="P+4" library="supply1" deviceset="V+" device=""/>
 <part name="C10" library="rcl" deviceset="C-EU" device="C0603" value="100nF"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
@@ -17467,7 +17467,7 @@ Source: http://www2.produktinfo.conrad.com/datenblaetter/700000-724999/705152-da
 <part name="C2" library="rcl" deviceset="C-EU" device="C1206" value="10uF"/>
 <part name="C24" library="rcl" deviceset="C-EU" device="C1206" value="10uF"/>
 <part name="U$1" library="rn4678" deviceset="RN4678" device=""/>
-<part name="C29" library="rcl" deviceset="C-EU" device="C1206" value="1uF"/>
+<part name="C29" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
